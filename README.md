@@ -11,6 +11,7 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 - Java SpringBoot
 
 
+<<<<<<< HEAD
 
 
 
@@ -19,3 +20,6 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 
 
+=======
+- Esta es la rama QA
+>>>>>>> QA
